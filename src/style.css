@@ -1,0 +1,19 @@
+
+
+
+
+.pogoda{
+  text-align: center;
+} 
+
+h1, p {
+  font-family: Lato;
+  }
+
+ul{
+ list-style-type: none;
+ 
+}
+li {
+ text-align: left   
+}
